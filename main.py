@@ -11,7 +11,7 @@ while True:
     print ("3.View Total Expenses")
     print ("4. To Exit")
 
-    choise = int(input("Enter your choise :"))
+    choise = int(input("Enter your choise : "))
 
 # Add Expense
 
